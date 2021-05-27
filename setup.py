@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='django-graphql-oauth2',
-    version='0.1.1',
+    version='0.1.2',
     description='Provide OAuth2 access to your app (fork of django-oauth2)',
     long_description=open('README.rst').read(),
     author='Mohammad',
